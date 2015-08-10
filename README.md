@@ -13,7 +13,7 @@ Linux, Mac and Windows can install Docker using Vagrant and Virtual Box. This is
 4. `cd docker-101`
 5. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.  
 
-#### Linux Specific Installation - May be more involved depending on kernel version
+#### Optional for Linux users - May be more involved depending on kernel version
 Linux users can install docker natively if you so choose.
 
 1. https://docs.docker.com/installation/
