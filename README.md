@@ -3,7 +3,8 @@ Let's learn some Docker!
 
 # Pre-requisite: Docker Installation
 
-All platforms can install Docker using Vagrant and Virtual Box. This is probably the best way to go for this talk.
+## All platforms (Recommended)
+Linux, Mac and Windows can install Docker using Vagrant and Virtual Box. This is probably the best way to go for this talk.
 
 1. Install vagrant - https://www.vagrantup.com/downloads.html
 2. Install VirtualBox - https://www.virtualbox.org
@@ -11,6 +12,7 @@ All platforms can install Docker using Vagrant and Virtual Box. This is probably
 4. `cd docker-101`
 5. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.  
 
+## Linux (Can be more involved depending on kernel version)
 Linux users can install docker natively if you so choose.
 
 1. https://docs.docker.com/installation/
