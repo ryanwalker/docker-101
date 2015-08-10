@@ -12,6 +12,7 @@
 #### Linux Installation
 1. https://docs.docker.com/installation/
 2. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.
+3. `docker pull mysql:5.5` - this will pull a docker image to your box.
 
 #### Mac Installation
 1. Install vagrant - https://www.vagrantup.com/downloads.html
@@ -21,7 +22,8 @@
 5. `vagrant up` - wait for it to download and start up.
 6. `vagrant ssh` - this will ssh you into the running Linux VM.
 7. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.  
+8. `docker pull mysql:5.5` - this will pull a docker image to your box.
 8. `vagrant exit` - exit out of running Linux VM.
 9. `vagrant halt` - stop the running VM.
 
-### Create account at https://hub.docker.com IN CHROME (other browsers sometimes behave strangely).
+### Create account at https://hub.docker.com, **Chrome** works best.
