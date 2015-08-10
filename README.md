@@ -14,7 +14,7 @@
 2. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.
 3. `docker pull mysql:5.5` - this will pull a docker image to your box.
 
-#### Mac Installation
+#### Mac/Windows Installation
 1. Install vagrant - https://www.vagrantup.com/downloads.html
 2. Install VirtualBox - https://www.virtualbox.org
 3. Clone this repo - `git clone git@github.com:ryanwalker/docker-101.git`
