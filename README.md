@@ -4,14 +4,16 @@
 
 ### Docker Installation
 Mac and Windows users need to install docker on a Linux VM
+
 Unfortunately, I just found out that Windows users need to change a setting in their BIOS in order to run VMs. If you are unable to do this before the talk, pair up with a linux or mac user.
+
 Linux user can install Docker natively
 
-#### Linux 
+#### Linux Installation
 1. https://docs.docker.com/installation/
 2. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.
 
-#### Mac
+#### Mac Installation
 1. Install vagrant - https://www.vagrantup.com/downloads.html
 2. Install VirtualBox - https://www.virtualbox.org
 3. Clone this repo - `git clone git@github.com:ryanwalker/docker-101.git`
