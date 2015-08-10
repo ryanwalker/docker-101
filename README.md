@@ -9,12 +9,10 @@ All platforms can install Docker using Vagrant and Virtual Box. This is probably
 2. Install VirtualBox - https://www.virtualbox.org
 3. Clone this repo - `git clone git@github.com:ryanwalker/docker-101.git`
 4. `cd docker-101`
-5. `docker run hello-world`  
+5. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.  
 
 Linux users can install docker natively if you so choose.
 
-https://docs.docker.com/installation/
+1. https://docs.docker.com/installation/
+2. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.
 
-# Installation Verification
-Run the command `docker run hello-world` or `sudo docker run hello-world`.
-If all is well you'll see 'Hello from Docker' along with a description of what just happened.
