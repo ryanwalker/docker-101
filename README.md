@@ -3,9 +3,9 @@
 ## Pre-Requisites
 
 ### Docker Installation
-Docker can be installed natively.
 Mac and Windows users need to install docker on a Linux VM
-I also just found out that Windows users need to change a setting in their BIOS in order to run VMs. If you are unable to do this before the talk, pair up with a linux or mac user.
+Unfortunately, I just found out that Windows users need to change a setting in their BIOS in order to run VMs. If you are unable to do this before the talk, pair up with a linux or mac user.
+Linux user can install Docker natively
 
 #### Linux 
 1. https://docs.docker.com/installation/
