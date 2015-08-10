@@ -3,11 +3,11 @@
 ## Pre-Requisites
 
 ### Docker Installation
-Mac and Windows users need to install docker on a Linux VM
+**Mac** users need to install docker on a Linux VM
 
-Unfortunately, I just found out that Windows users need to change a setting in their BIOS in order to run VMs. If you are unable to do this before the talk, pair up with a linux or mac user.
+**Windows** user need to install docker on a Linux VM also. **Unfortunately**, I just found out that Windows users need to change a setting in their BIOS in order to run VMs. If you are unable to do this before the talk, pair up with a linux or mac user.
 
-Linux user can install Docker natively
+**Linux** users can install Docker natively
 
 #### Linux Installation
 1. https://docs.docker.com/installation/
