@@ -1,9 +1,10 @@
-# docker-101
-Let's learn some Docker!
+# Docker-101
 
-# Pre-requisite: Docker Installation
+## Pre-Requisites
 
-## All platforms (Recommended)
+### Docker Installation
+
+#### Linux, Mac, Windows Installation (Recommended)
 Linux, Mac and Windows can install Docker using Vagrant and Virtual Box. This is probably the best way to go for this talk.
 
 1. Install vagrant - https://www.vagrantup.com/downloads.html
@@ -12,9 +13,11 @@ Linux, Mac and Windows can install Docker using Vagrant and Virtual Box. This is
 4. `cd docker-101`
 5. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.  
 
-## Linux (Can be more involved depending on kernel version)
+#### Linux Specific Installation - May be more involved depending on kernel version
 Linux users can install docker natively if you so choose.
 
 1. https://docs.docker.com/installation/
 2. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.
 
+### Pull Docker Images
+`docker pul ...`
