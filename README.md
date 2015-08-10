@@ -23,8 +23,7 @@ Linux users can install docker natively if you so choose.
 1. https://docs.docker.com/installation/
 2. `docker run hello-world` - you should see 'Hello from Docker' along with information on what docker just did.
 
-### Pull Docker Images
-`docker pul ...`
+### Create account at https://hub.docker.com IN CHROME (other browsers sometimes behave strangely).
 
 
 
