@@ -3,7 +3,7 @@ Let's learn some Docker!
 
 # Pre-requisite: Docker Installation
 
-(Recommended) All platforms can install Docker using Vagrant and Virtual Box. This is probably the best way to go for beginners.
+All platforms can install Docker using Vagrant and Virtual Box. This is probably the best way to go for beginners.
 
 1. Install vagrant - https://www.vagrantup.com/downloads.html
 2. Install VirtualBox - https://www.virtualbox.org
